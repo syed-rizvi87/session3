@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employs [
+    <!ELEMENT employs (employ)>
+    <!ELEMENT employ (name,salary,department)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT salary (#PCDATA)>
+    <!ELEMENT department (#PCDATA)>
+]>
+<employs>
+    <employ>
+        <name>husnain</name>
+        <salary>600$</salary>
+        <department>SEO</department>
+    </employ>
+    <employ>
+        <name>Hadi</name>
+        <salary>550$</salary>
+        <department>front end developer</department>
+    </employ>
+    <employ>
+        <name >rahib</name>
+        <salary>500$</salary>
+        <department>back end developer</department>
+    </employ>
+</employs>

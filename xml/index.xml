@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<selling>
+<salles>
+<id>8524</id>
+<name>bat</name>
+<price>1650</price>
+<description>it is very smart and power full bat</description>
+</salles>
+<salles>
+<id>8525</id>
+<name>ball</name>
+<price>380</price>
+<description>it is very exellent work ball</description>
+</salles>
+
+<salles>
+<id>8526</id>
+<name>tape</name>
+<price>70</price>
+<description>it is very shiny and good quality tape</description>
+</salles>
+</selling>
